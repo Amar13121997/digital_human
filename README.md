@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">NVIDIA AI Blueprint: Digital Human for Customer Service</h2>
 
 The Digital Human for Customer Service NVIDIA AI Blueprint is powered by NVIDIA Tokkio, a workflow based on ACE technologies, to bring enterprise applications to life with a 3D animated digital human interface. With approachable, human-like interactions, customer service applications can provide more engaging user experience compared to traditional customer service options.
@@ -106,3 +107,6 @@ Once you familiarize yourself with the blueprint, you may want to further custom
 
 #### System requirements
 Ubuntu 20.04 or 22.04 based machine, with sudo privileges
+=======
+# digital_human
+>>>>>>> 0b36f5e08c8ccb3bb7ae431e2e3ce716d80e41f0
